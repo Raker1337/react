@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3b59eb8d.css",
+    "main.js": "/static/js/main.c2cec727.js",
+    "static/media/backg.png": "/static/media/backg.9e35256abe3c509b475d.png",
+    "static/media/room.png": "/static/media/room.255437b668ff1e2927d6.png",
+    "static/media/cert.png": "/static/media/cert.81d7dd23906f59e0cfc2.png",
+    "static/media/gotham.ttf": "/static/media/gotham.dca4b95d345c2abd8661.ttf",
+    "static/media/card1.png": "/static/media/card1.578a63571f23ba5e8834.png",
+    "static/media/flag.png": "/static/media/flag.8edd72cf56332c3bc3cb.png",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/search.svg": "/static/media/search.f7a26ab2c1e6ae877b07de2d73c3ff06.svg",
+    "index.html": "/index.html",
+    "main.3b59eb8d.css.map": "/static/css/main.3b59eb8d.css.map",
+    "main.c2cec727.js.map": "/static/js/main.c2cec727.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3b59eb8d.css",
+    "static/js/main.c2cec727.js"
+  ]
+}
